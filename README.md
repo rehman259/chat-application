@@ -30,27 +30,31 @@ Follow these steps to get started with the Realtime Chat Application:
    ```bash
    git clone https://github.com/rehman259/chat-application.git
 
-2. **Install the required dependencies:**
+2. **Install Laravel dependencies:**
 
    ```bash
-   cd chat-application
    composer install
-   npm install
 
-3. **Configure your environment:**
+3. **Install Javascript dependencies:**
+
+   ```bash
+   npm install
+   
+4. **Configure your environment:**
 
     ```bash
     php artisan key:generate
 
-4. **Run the migrations and seed the database:**
+5. **Run the migrations and seed the database:**
 
     ```bash
     php artisan migrate --seed
 
-5. **Start the development server:**
+6. **Start the development server:**
 
    ```bash
-    php artisan serve
+   php artisan websockets:serve
+   npm run dev 
 
 ## Contributions:
 
