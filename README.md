@@ -56,10 +56,6 @@ Follow these steps to get started with the Realtime Chat Application:
    php artisan websockets:serve
    npm run dev
 
-   ![chat1](https://github.com/rehman259/chat-application/assets/28136599/bbc8a52f-b6f4-4dfe-b002-f260fe1ff18a)
-   ![chat2](https://github.com/rehman259/chat-application/assets/28136599/14652fd4-b5d0-40e2-bb44-f390658011ad)
-
-
 ## Contributions:
 
 Contributions are welcome! If you'd like to contribute to this project, please feel free to open issues or submit pull requests.
@@ -67,3 +63,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+![chat1](https://github.com/rehman259/chat-application/assets/28136599/bbc8a52f-b6f4-4dfe-b002-f260fe1ff18a)
+![chat2](https://github.com/rehman259/chat-application/assets/28136599/14652fd4-b5d0-40e2-bb44-f390658011ad)
+
