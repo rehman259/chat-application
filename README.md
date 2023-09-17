@@ -38,19 +38,22 @@ Follow these steps to get started with the Realtime Chat Application:
    npm install
 
 3. **Configure your environment:**
-
-```bash
-php artisan key:generate
+    ```bash
+    php artisan key:generate
 
 4. **Run the migrations and seed the database:**
 
-```bash
-php artisan migrate --seed
+    ```bash
+    php artisan migrate --seed
 
-5. **Start the development server:**
+5. **Configure your environment:**
 
-```bash
-php artisan serve
+   ```bash
+   php artisan key:generate
+    
+6. **Start the development server:**
+    ```bash
+    php artisan serve
 
 ## Contributions:
 
