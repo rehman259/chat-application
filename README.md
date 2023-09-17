@@ -28,7 +28,7 @@ Follow these steps to get started with the Realtime Chat Application:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/realtime-chat-app.git
+   git clone https://github.com/rehman259/chat-application.git
 
 2. **Install the required dependencies:**
 
@@ -42,17 +42,12 @@ Follow these steps to get started with the Realtime Chat Application:
     ```bash
     php artisan key:generate
 
-5. **Run the migrations and seed the database:**
+4. **Run the migrations and seed the database:**
 
     ```bash
     php artisan migrate --seed
 
-6. **Configure your environment:**
-
-   ```bash
-   php artisan key:generate
-    
-7. **Start the development server:**
+5. **Start the development server:**
 
    ```bash
     php artisan serve
