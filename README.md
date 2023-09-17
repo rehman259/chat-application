@@ -36,21 +36,18 @@ Follow these steps to get started with the Realtime Chat Application:
    composer install
    npm install
 
-  
 
+3. **Configure your environment:**
 
-2.Install the required dependencies:
-cd realtime-chat-app
-composer install
-npm install
-
-3. Configure your environment:
+```bash
 php artisan key:generate
 
-4. Run the migrations and seed the database:
+4. **Run the migrations and seed the database:**
+```bash
 php artisan migrate --seed
 
-5. Start the development server:
+5. **Start the development server:**
+```bash
 php artisan serve
 
 ## Contributions:
@@ -60,8 +57,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
-
-
-
