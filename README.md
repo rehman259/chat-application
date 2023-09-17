@@ -33,7 +33,7 @@ Follow these steps to get started with the Realtime Chat Application:
 2. **Install the required dependencies:**
 
    ```bash
-   cd realtime-chat-app
+   cd chat-application
    composer install
    npm install
 
