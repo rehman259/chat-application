@@ -29,6 +29,14 @@ Follow these steps to get started with the Realtime Chat Application:
    ```bash
    git clone https://github.com/yourusername/realtime-chat-app.git
 
+2. **Install the required dependencies:**
+
+   ```bash
+   cd realtime-chat-app
+   composer install
+   npm install
+
+
 
 2.Install the required dependencies:
 cd realtime-chat-app
