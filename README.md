@@ -64,5 +64,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-![chat1](https://github.com/rehman259/chat-application/assets/28136599/bbc8a52f-b6f4-4dfe-b002-f260fe1ff18a) ![chat2](https://github.com/rehman259/chat-application/assets/28136599/14652fd4-b5d0-40e2-bb44-f390658011ad)
+![chat3](https://github.com/rehman259/chat-application/assets/28136599/157c7111-7618-48b7-b47e-2a6d14edf89c)
 
