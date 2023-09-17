@@ -71,8 +71,6 @@ export default {
 		})
 
 		const startTyping = () => {
-			// console.log('startTyping->' + isTyping.value);
-
 			// Emit 'startTyping' event to notify others
 			Echo.private('chat-channel').whisper('StartTyping', {
 				user: props.user
@@ -85,9 +83,6 @@ export default {
 					isTyping.value = true;
 					typingUser.value = e.user.name;
 				}
-
-				// console.log('Listenfor-StartTyping->' + typingUser.value);
-				// console.log('props.user.id->' + props.user.id);
 			});
 		};
 
@@ -104,7 +99,6 @@ export default {
 				// Hide typing indicator when 'stopTyping' event is received
 				isTyping.value = false;
 				typingUser.value = '';
-				// console.log('Listenfor-StopTyping');
 
 			});
 		};
