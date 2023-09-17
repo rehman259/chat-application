@@ -26,11 +26,13 @@ Follow these steps to get started with the Realtime Chat Application:
 ```bash
 git clone https://github.com/yourusername/realtime-chat-app.git
 
+```bash
 2.Install the required dependencies:
 cd realtime-chat-app
 composer install
 npm install
 
+```bash
 3. Configure your environment:
 php artisan key:generate
 
