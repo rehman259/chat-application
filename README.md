@@ -54,7 +54,11 @@ Follow these steps to get started with the Realtime Chat Application:
 
    ```bash
    php artisan websockets:serve
-   npm run dev 
+   npm run dev
+
+   ![chat1](https://github.com/rehman259/chat-application/assets/28136599/bbc8a52f-b6f4-4dfe-b002-f260fe1ff18a)
+   ![chat2](https://github.com/rehman259/chat-application/assets/28136599/14652fd4-b5d0-40e2-bb44-f390658011ad)
+
 
 ## Contributions:
 
