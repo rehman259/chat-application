@@ -17,6 +17,7 @@
 - **Laravel** for the backend server.
 - **Vue.js** for the frontend user interface.
 - **Laravel Websockets** for real-time websockets.
+- **Laravel Echo** for for client side event listening.
 - **Bootstrap** for styling.
 - **MySQL** database.
 
@@ -36,17 +37,18 @@ Follow these steps to get started with the Realtime Chat Application:
    composer install
    npm install
 
-
 3. **Configure your environment:**
 
 ```bash
 php artisan key:generate
 
 4. **Run the migrations and seed the database:**
+
 ```bash
 php artisan migrate --seed
 
 5. **Start the development server:**
+
 ```bash
 php artisan serve
 
